@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Taz – Fullstack Developer & AI Engineer
+# 👋 Hi, I'm a Fullstack Developer & AI Engineer
 
 I'm a passionate **Software Engineer** (GPA 5.0/5.0) with hands-on experience across **fullstack development**, **AI/ML engineering**, **embedded systems**, and **DevOps**. I enjoy building scalable, modern applications with clean code and meaningful user experiences. I specialize in **Python**, **JavaScript**, **C++**, **C**, and comfortably navigate frontend, backend, and low-level stacks.
 
