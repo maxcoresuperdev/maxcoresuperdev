@@ -1,100 +1,118 @@
-# 👋 Hi, I'm a Fullstack Developer & AI Engineer
+# 👋 Hi, I'm a Senior AI Engineer | ML & Data Engineer
 
-I'm a passionate **Software Engineer** (GPA 5.0/5.0) with hands-on experience across **fullstack development**, **AI/ML engineering**, **embedded systems**, and **DevOps**. I enjoy building scalable, modern applications with clean code and meaningful user experiences. I specialize in **Python**, **JavaScript**, **C++**, **C**, and comfortably navigate frontend, backend, and low-level stacks.
+I'm a Software Engineer with 12+ years of experience across **AI engineering, machine learning, data engineering, cloud platforms, healthcare technology, and enterprise software development**.
+
+My work focuses on building intelligent systems that automate manual workflows, improve decision-making, and turn complex data into practical business value. I have hands-on experience designing **GenAI architectures, MLOps pipelines, real-time analytics platforms, ETL frameworks, cloud-native applications, and healthcare data solutions**.
 
 ---
 
 ## 🚀 What I Do
 
-- ⚙️ Build modern, responsive **web**, **desktop**, and **mobile** applications (React, Next.js, Electron, Flask, Laravel, Ionic)
-- 🤖 Develop and deploy **AI/ML models** for real-world use cases (voice assistants, real estate pricing, predictive analytics)
-- 📡 Design secure and efficient **REST/GraphQL APIs**, integrate with **Azure Functions**, Event Grid, Queues
-- 🧠 Create **offline AI solutions** using local LLMs (Ollama, Vosk) with encryption and SQLite storage
-- 🔧 Prototype **embedded systems** on Arduino, ESP32 & Raspberry Pi for IoT and real-time data collection
-- 🛠 Automate workflows and internal tools with **Power Platform** (PowerApps, PowerAutomate) and custom scripts
-- 🚀 Implement CI/CD pipelines with **GitHub Actions**, Docker, Azure DevOps
-
-
----
-
-## 🎓 Education & Thesis
-
-- 🎓 **Engineer’s Degree in Software Development**
-- 🏆 Graduated with distinction (**5.0 / 5.0 GPA**)
-- 📚 **Bachelor Thesis:**  
-  **Offline AI Assistant** – a fully offline voice assistant built in Python with Vosk, Ollama, Tkinter, SQLite & cryptography.
-  Focused on speech-to-text, TTS, secure local note-taking and data visualization.
+- 🤖 Design and build **Generative AI** and **multi-agent AI systems**
+- 📊 Develop scalable **data pipelines, ETL frameworks, and data warehouse solutions**
+- 🧠 Build and modernize **machine learning pipelines** with MLOps best practices
+- ☁️ Work with cloud platforms including **Azure, AWS, Microsoft Fabric, Databricks, and Azure AI Services**
+- 🏥 Develop secure healthcare technology solutions with **HIPAA-focused privacy and security controls**
+- 🔄 Create real-time analytics platforms for operational insights and business decision-making
+- ⚙️ Build backend APIs, reporting systems, and database-driven enterprise applications
+- 📈 Support predictive analytics, forecasting, geospatial mapping, and data transformation initiatives
 
 ---
 
-## 🧠 Featured Projects
+## 🧠 Professional Focus
 
-### 🗣️ Offline AI Assistant (Local LLM-based)
+### AI & Generative AI
+- Multi-agent AI architecture
+- LLM-powered automation
+- Natural language data exploration
+- AI workflow orchestration
+- Enterprise AI strategy and delivery
 
-> A 100% offline, private voice assistant in Python for taking encrypted notes, executing commands, and visualizing data without any internet dependency.  
-> 🔐 **Tech:** Python, Vosk for STT, PyAudio, Tkinter UI, SQLite + SQLCipher, Matplotlib, Ollama LLM.
+### Data Engineering
+- ETL / ELT pipeline development
+- Data lake and data warehouse design
+- API, FTP, flat-file, JSON, and enterprise data ingestion
+- SQL transformation and data modeling
+- Healthcare data processing and reporting
 
-📌 Features:
-- Chat with AI (LLM via Ollama)
-- Voice commands & responses (STT + TTS)
-- Secure notes stored in SQLite with encryption
-- Data visualization (charts, calendars)
-- 100% local — no internet required
+### Machine Learning & MLOps
+- ML pipeline development
+- Model deployment and monitoring
+- Forecasting pipelines
+- Data preprocessing automation
+- Databricks and PySpark-based analytics workflows
 
->🎬 Demo: (Comming soon!)
-
-### 🏠 Real Estate Price Predictor
-
-> A ML pipeline in Python/TensorFlow that analyzes historical property data to forecast market prices.  
-> 🔐 **Tech:** Python, pandas, TensorFlow, scikit-learn, PostgreSQL, Docker, GitHub Actions.
-
-### 📚 Library Management Service
-> A fullstack Flask/Python + React application with MySQL for cataloging and searching digital resources.
-
-### 🖥️ BiblioConnect
-> Online library platform built with PHP and JavaScript, featuring REST API integration and user-friendly UI.
+### Cloud & Enterprise Systems
+- Azure cloud services
+- Microsoft Fabric
+- AWS S3 and cloud data platforms
+- Azure MLOps pipelines
+- REST APIs and backend services
+- Enterprise reporting and BI systems
 
 ---
 
 ## 🛠 Tech Stack
 
-| Category           | Tools & Frameworks                                                                 |
-|--------------------|------------------------------------------------------------------------------------|
-| 💻 Frontend        | React, Next.js, Vue (learning), HTML5, CSS3, SASS, Bootstrap, jQuery               |
-| 🔧 Backend         | Node.js, Flask, Django, Laravel, ASP.NET Core (learning), REST/GraphQL             |
-| 🧠 AI/ML           | TensorFlow, PyTorch, scikit-learn, local LLMs                               |
-| 💬 Languages       | Python, JavaScript, C++, C, Java, Pascal, Fortran, SQL                 |
-| 🌐 Cloud & CI/CD   | Azure Functions, Azure VM, Docker, GitHub Actions, Azure DevOps, Git               |
-| 🗄️ Databases       | PostgreSQL, MySQL, Oracle, SQLite, ETL/OLAP                                 |
-| 🛠 Embedded & IoT  | Arduino, ESP32, Raspberry Pi, C++                                               |
-| 🔒 Security & Dev  | Git, Wireshark, PuTTY, VirtualBox, SQLCipher, SSL/TLS                              |
-| 🔄 Workflows       | Power Platform (PowerApps), Bash/PowerShell scripting               |
-| 🛠 Other Tools     | MS Project, Trello, BPMN, ERD, DFD, GIMP, Blender  
+| Category | Technologies |
+|---|---|
+| **AI / GenAI** | LLMs, Multi-Agent Systems, Azure AI Services, Prompt Engineering, AI Workflow Automation |
+| **Machine Learning** | Python, ML Pipelines, Forecasting, MLOps, Model Monitoring, Data Preprocessing |
+| **Data Engineering** | ETL, ELT, Talend, Databricks, PySpark, Data Warehousing, Data Lakes, JSON Processing |
+| **Cloud** | Microsoft Azure, AWS, Microsoft Fabric, Azure MLOps, Azure Functions, AWS S3 |
+| **Programming** | Python, Java, JavaScript, SQL, PL/SQL, J2EE |
+| **Backend** | REST APIs, Web Services, Java Backend Development, Cloud-Native Services |
+| **Frontend** | React, JavaScript, HTML, CSS, Dashboard Development |
+| **Databases** | SQL Server, Oracle 11g, PostgreSQL, MySQL, Data Warehouses |
+| **BI / Reporting** | Oracle BI Publisher, Oracle Reports, OBIEE, SQL Reporting |
+| **Healthcare Tech** | HIPAA, Healthcare Data, Patient Workflows, Secure Data Processing |
+| **DevOps / Tools** | Git, Bitbucket, Docker, CI/CD, Azure DevOps |
 
 ---
 
-## 🧩 Other Skills & Interests
+## 📌 Featured Work Areas
 
-- 🎨 UI/UX prototyping & data-driven design  
-- 🔐 Data privacy, encryption & offline-first architectures  
-- 🛠️ Embedded development on Arduino & Raspberry Pi  
-- 🤝 Agile collaboration, code reviews & documentation  
+### 🤖 Enterprise GenAI Workflow Automation
+Designed AI-powered workflow automation using Azure-based multi-agent architecture to reduce manual document review and accelerate business operations.
+
+### 📊 Real-Time Analytics Platform
+Built analytics solutions using Microsoft Fabric to unify ingestion, transformation, and reporting across operational data sources.
+
+### 🧠 ML & Forecasting Pipelines
+Developed machine learning pipelines for forecasting, data preprocessing, and predictive analytics using Python, cloud platforms, and MLOps practices.
+
+### 🏥 Healthcare Data Engineering
+Created healthcare data pipelines, SQL transformations, and data models supporting reporting, analytics, and operational workflows.
+
+### ☁️ Cloud-Based Healthcare Applications
+Built secure healthcare applications with backend APIs, AWS infrastructure, SQL reporting, authentication, and HIPAA-focused privacy controls.
+
+---
+
+## 🌱 Current Focus
+
+I'm currently focused on:
+
+- Advanced Generative AI and multi-agent systems
+- Enterprise AI automation
+- MLOps and production ML systems
+- Microsoft Fabric and modern analytics platforms
+- Scalable data engineering with Azure, AWS, Databricks, and PySpark
+- AI-powered healthcare and business workflow automation
 
 ---
 
-## 🌱 Current Focus & Interests
+## 🤝 Open To
 
-I'm currently deepening my expertise in:
-*   Advanced Machine Learning techniques and Large Language Model (LLM) applications.
-*   Scalable backend architectures and microservices.
-*   Cloud-native development and DevOps practices.
-*   Exploring the intersection of AI with various industries to create impactful solutions.
-
----
-
-I'm always open to:
-*   🧠 Learning new technologies and methodologies.
-*   💡 Collaborating on meaningful and innovative tech initiatives.
-*   🚀 Building something impactful that solves real-world problems.
+- AI engineering opportunities
+- ML/Data engineering roles
+- Cloud data platform projects
+- Healthcare technology initiatives
+- Enterprise automation and analytics solutions
+- Collaboration on meaningful AI and data-driven products
 
 ---
+
+## 📫 Let's Connect
+
+I'm always interested in building intelligent, scalable, and practical technology solutions that solve real-world business problems.
